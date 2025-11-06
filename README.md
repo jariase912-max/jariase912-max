@@ -1,16 +1,34 @@
-## Hi there 👋
+## 👋 ¡Hola! Soy Ángel :)
 
-<!--
-**jariase912-max/jariase912-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Apasionado por el **diseño y desarrollo web**, me gusta combinar la **creatividad y el código** para crear proyectos funcionales y con estilo.  
+Siempre estoy aprendiendo algo nuevo y buscando mejorar en cada línea de código. 🚀  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Actualmente estoy...
+- Aprendiendo **JavaScript** y **GitHub**  
+- Practicando diseño web con **HTML y CSS**  
+- Trabajando en pequeños proyectos para mejorar mi portafolio  
+
+---
+
+### 💬 Pregúntame sobre...
+- Diseño web 🎨  
+- Frontend con HTML, CSS y JS 💡  
+- Ideas creativas para proyectos web  
+
+---
+
+### 📫 Cómo contactarme:
+- ✉️ [Tu correo aquí]  
+- 🌐 [Tu portafolio o red social si quieres]
+
+---
+
+### ⚡ Datos curiosos:
+- Me encanta la música y los autos deportivos 🏎️  
+- Disfruto aprender cosas nuevas todos los días  
+
+---
+
+> *"El mejor diseño es aquel que también cuenta una historia."*
