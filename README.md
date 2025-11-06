@@ -20,8 +20,8 @@ Siempre estoy aprendiendo algo nuevo y buscando mejorar en cada línea de códig
 ---
 
 ### 📫 Cómo contactarme:
-- ✉️ [Tu correo aquí]  
-- 🌐 [Tu portafolio o red social si quieres]
+- ✉️ jariase912@inemkennedy.edu.co
+- 🌐 https://www.capcut.com/es-es/?current_page=landing_page&enter_from=signup&from_page=landing_page&start_tab=video
 
 ---
 
